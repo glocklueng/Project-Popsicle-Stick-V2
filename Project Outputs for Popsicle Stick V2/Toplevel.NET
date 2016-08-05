@@ -1,0 +1,3143 @@
+PROTEL NETLIST 2.0
+[
+DESIGNATOR
+C1
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C2
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C3
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C4
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C5
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C6
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C7
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C8
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C9
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C10
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C11
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C12
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C13
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C14
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C15
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C16
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C17
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C18
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C19
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C20
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C21
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C22
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C23
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C24
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C25
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C26
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C27
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C28
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C29
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C30
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C31
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C32
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C33
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C34
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C35
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+C36
+FOOTPRINT
+RAD-0.3
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+RAD-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageDescription
+Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+]
+[
+DESIGNATOR
+CN1
+FOOTPRINT
+
+PARTTYPE
+USB Micro B
+DESCRIPTION
+USB Micro B
+Comment
+USB Micro B
+Component Kind
+Standard
+Description
+USB Micro B
+ECCN
+????
+Footprint
+
+Ibis Model
+
+Library Name
+PSV2.SchLib
+Library Reference
+USB Micro B
+Manuf_Part_1
+5075BMR-05-SM
+Order
+5075BMR-05-SM
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+D1
+FOOTPRINT
+SMB
+PARTTYPE
+D Schottky
+DESCRIPTION
+Schottky Diode
+Code_JEDEC
+DO-214-AA
+Comment
+D Schottky
+Component Kind
+Standard
+Description
+Schottky Diode
+Footprint
+SMB
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+D Schottky
+PackageDescription
+DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)
+PackageReference
+SMB
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+D Schottky
+
+*
+]
+[
+DESIGNATOR
+D2
+FOOTPRINT
+3.2X1.6X1.1
+PARTTYPE
+LED2
+DESCRIPTION
+Typical RED, GREEN, YELLOW, AMBER GaAs LED
+Comment
+LED2
+Component Kind
+Standard
+Description
+Typical RED, GREEN, YELLOW, AMBER GaAs LED
+Footprint
+3.2X1.6X1.1
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+LED2
+PackageDescription
+SM LED; 2 Flat Leads
+PackageReference
+3.2X1.6X1.1
+PackageVersion
+Feb-2002
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+
+*
+]
+[
+DESIGNATOR
+D3
+FOOTPRINT
+SMB
+PARTTYPE
+D Schottky
+DESCRIPTION
+Schottky Diode
+Code_JEDEC
+DO-214-AA
+Comment
+D Schottky
+Component Kind
+Standard
+Description
+Schottky Diode
+Footprint
+SMB
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+D Schottky
+PackageDescription
+DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)
+PackageReference
+SMB
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+D Schottky
+
+*
+]
+[
+DESIGNATOR
+L1
+FOOTPRINT
+0402-A
+PARTTYPE
+Inductor
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+0402-A
+Ibis Model
+
+LatestRevisionDate
+29-May-2009
+LatestRevisionNote
+IPC-7351 Footprint Added.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageDescription
+Chip Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+
+*
+]
+[
+DESIGNATOR
+P1
+FOOTPRINT
+HDR1X10
+PARTTYPE
+Header 10
+DESCRIPTION
+Header, 10-Pin
+Comment
+Header 10
+Component Kind
+Standard
+Description
+Header, 10-Pin
+Footprint
+HDR1X10
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+Header 10
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+P2
+FOOTPRINT
+HDR1X11
+PARTTYPE
+Header 11
+DESCRIPTION
+Header, 11-Pin
+Comment
+Header 11
+Component Kind
+Standard
+Description
+Header, 11-Pin
+Footprint
+HDR1X11
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+Header 11
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+P3
+FOOTPRINT
+HDR1X14
+PARTTYPE
+Header 14
+DESCRIPTION
+Header, 14-Pin
+Comment
+Header 14
+Component Kind
+Standard
+Description
+Header, 14-Pin
+Footprint
+HDR1X14
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+Header 14
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R1
+FOOTPRINT
+AXIAL-0.3
+PARTTYPE
+Res1
+DESCRIPTION
+Resistor
+Comment
+Res1
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+AXIAL-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageDescription
+Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+
+*
+]
+[
+DESIGNATOR
+R2
+FOOTPRINT
+AXIAL-0.3
+PARTTYPE
+Res1
+DESCRIPTION
+Resistor
+Comment
+Res1
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+AXIAL-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageDescription
+Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+
+*
+]
+[
+DESIGNATOR
+R3
+FOOTPRINT
+AXIAL-0.3
+PARTTYPE
+Res1
+DESCRIPTION
+Resistor
+Comment
+Res1
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+AXIAL-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageDescription
+Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+
+*
+]
+[
+DESIGNATOR
+R4
+FOOTPRINT
+AXIAL-0.3
+PARTTYPE
+Res1
+DESCRIPTION
+Resistor
+Comment
+Res1
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+AXIAL-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageDescription
+Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+
+*
+]
+[
+DESIGNATOR
+R5
+FOOTPRINT
+AXIAL-0.3
+PARTTYPE
+Res1
+DESCRIPTION
+Resistor
+Comment
+Res1
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+AXIAL-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageDescription
+Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+
+*
+]
+[
+DESIGNATOR
+R6
+FOOTPRINT
+AXIAL-0.3
+PARTTYPE
+Res1
+DESCRIPTION
+Resistor
+Comment
+Res1
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+AXIAL-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageDescription
+Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+
+*
+]
+[
+DESIGNATOR
+R7
+FOOTPRINT
+AXIAL-0.3
+PARTTYPE
+Res1
+DESCRIPTION
+Resistor
+Comment
+Res1
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+AXIAL-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageDescription
+Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+
+*
+]
+[
+DESIGNATOR
+R8
+FOOTPRINT
+AXIAL-0.3
+PARTTYPE
+Res1
+DESCRIPTION
+Resistor
+Comment
+Res1
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+AXIAL-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageDescription
+Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+
+*
+]
+[
+DESIGNATOR
+R9
+FOOTPRINT
+AXIAL-0.3
+PARTTYPE
+Res1
+DESCRIPTION
+Resistor
+Comment
+Res1
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+AXIAL-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageDescription
+Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+
+*
+]
+[
+DESIGNATOR
+R10
+FOOTPRINT
+AXIAL-0.3
+PARTTYPE
+Res1
+DESCRIPTION
+Resistor
+Comment
+Res1
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+AXIAL-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageDescription
+Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+
+*
+]
+[
+DESIGNATOR
+R11
+FOOTPRINT
+AXIAL-0.3
+PARTTYPE
+Res1
+DESCRIPTION
+Resistor
+Comment
+Res1
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+AXIAL-0.3
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageDescription
+Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+
+*
+]
+[
+DESIGNATOR
+U1
+FOOTPRINT
+LATC-TQFP-144_M
+PARTTYPE
+ICE40HX4K-TQ144
+DESCRIPTION
+iCE40 HX4K Series FPGA Family, 3520 Logic Cells, 1.2 V Core, 80 K Embedded RAM Bits, 144-pin TQFP, Pb-Free, Tray
+Comment
+ICE40HX4K-TQ144
+Component Kind
+Standard
+ComponentLink1Description
+Manufacturer URL
+ComponentLink1URL
+http://www.latticesemi.com/en
+ComponentLink2Description
+Datasheet
+ComponentLink2URL
+http://www.latticesemi.com/~/media/Documents/DataSheets/iCE/iCE40LPHXFamilyDataSheet.pdf
+ComponentLink3Description
+Package Specification
+ComponentLink3URL
+http://www.latticesemi.com/lit/docs/package/pkg.pdf
+DatasheetVersion
+Rev. 02.9
+Description
+iCE40 HX4K Series FPGA Family, 3520 Logic Cells, 1.2 V Core, 80 K Embedded RAM Bits, 144-pin TQFP, Pb-Free, Tray
+Embedded RAM Bits
+80K
+Footprint
+LATC-TQFP-144_M
+Ibis Model
+
+Library Name
+Lattice iCE40.IntLib
+Library Reference
+ICE40HX4K-TQ144
+Logic Cells
+3520
+
+*
+]
+[
+DESIGNATOR
+U2
+FOOTPRINT
+TI-DSE6_V
+PARTTYPE
+TLV7111233DSER
+DESCRIPTION
+Dual Output High PSRR LDO, 200 mA, Fixed 1.2, 3.3 V Output, 2 to 5.5 V Input, 6-pin WSON (DSE), -40 to 125 degC, Green (RoHS & no Sb/Br)
+Comment
+TLV7111233DSER
+Component Kind
+Standard
+ComponentLink1Description
+Manufacturer URL
+ComponentLink1URL
+http://www.ti.com/
+ComponentLink2Description
+Datasheet
+ComponentLink2URL
+http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TLV7111233&fileType=pdf
+ComponentLink3Description
+Package Specification
+ComponentLink3URL
+http://www.ti.com/litv/pdf/mpds287
+DatasheetVersion
+SBVS142A
+Description
+Dual Output High PSRR LDO, 200 mA, Fixed 1.2, 3.3 V Output, 2 to 5.5 V Input, 6-pin WSON (DSE), -40 to 125 degC, Green (RoHS & no Sb/Br)
+Eco-Plan
+Green (RoHS & no Sb/Br)
+Fixed Output Options(V)
+1.2, 3.3
+Footprint
+TI-DSE6_V
+Ibis Model
+
+Iout(Max)(A)
+0.2
+Iq(Typ)(mA)
+0.03
+
+*
+]
+[
+DESIGNATOR
+U3
+FOOTPRINT
+DRY6
+PARTTYPE
+TPD4S012DRYR
+DESCRIPTION
+USB ESD Solution with Power Clamp, 4 Channels, -40 to +85 degC, 6-pin SON (DRY), Green (RoHS & no Sb/Br)
+Breakdown Voltage(Min)(V)
+6
+Comment
+TPD4S012DRYR
+Component Kind
+Standard
+ComponentLink1Description
+Datasheet
+ComponentLink1URL
+http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPD4S012&fileType=pdf
+ComponentLink2Description
+URL Link1
+ComponentLink2URL
+SamplesURL:http://www.ti.com/product/tpd4s012#samples
+DatasheetVersion
+SLVS928A
+Description
+USB ESD Solution with Power Clamp, 4 Channels, -40 to +85 degC, 6-pin SON (DRY), Green (RoHS & no Sb/Br)
+Eco-Plan
+Green (RoHS & no Sb/Br)
+Footprint
+DRY6
+Ibis Model
+
+IEC 61000-4-2 Air-Gap(+/- kV)
+10
+IEC 61000-4-2 Contact(+/- kV)
+10
+IO Capacitance(Typ)(pF)
+0.8
+IO Leakage Current(nA)
+10
+
+*
+]
+[
+DESIGNATOR
+U10
+FOOTPRINT
+STM-LQFP64_M
+PARTTYPE
+MCU_LQFP64
+DESCRIPTION
+
+Comment
+MCU_LQFP64
+Component Kind
+Standard
+Description
+
+Footprint
+STM-LQFP64_M
+Ibis Model
+
+Library Name
+MB1136.SCHLIB
+Library Reference
+MCU_LQFP64
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Y1
+FOOTPRINT
+R38
+PARTTYPE
+XTAL
+DESCRIPTION
+Crystal Oscillator
+Comment
+XTAL
+Component Kind
+Standard
+Description
+Crystal Oscillator
+Footprint
+R38
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+XTAL
+PackageDescription
+Crystal, Thru-Hole; 2 Leads; Body 3.1 x 8.2 mm (Dia.xH)
+PackageReference
+R38
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+XTAL
+
+*
+]
+[
+DESIGNATOR
+Y2
+FOOTPRINT
+R38
+PARTTYPE
+XTAL
+DESCRIPTION
+Crystal Oscillator
+Comment
+XTAL
+Component Kind
+Standard
+Description
+Crystal Oscillator
+Footprint
+R38
+Ibis Model
+
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+XTAL
+PackageDescription
+Crystal, Thru-Hole; 2 Leads; Body 3.1 x 8.2 mm (Dia.xH)
+PackageReference
+R38
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+XTAL
+
+*
+]
+(
+USBD-
+CN1-3 USB Micro B-D+ IO           
+R10-2 Res1-2 Passive      
+U3-2 TPD4S012DRYR-D- Passive      
+)
+(
+USBD+
+CN1-2 USB Micro B-D- IO           
+R11-2 Res1-2 Passive      
+U3-1 TPD4S012DRYR-D+ Passive      
+)
+(
+NetR7_1
+R7-1 Res1-1 Passive      
+U1-71 ICE40HX4K-TQ144-IOB_108_SS_B IO           
+U10-20 MCU_LQFP64-PA4 Passive      
+)
+(
+NetU1_67
+U1-67 ICE40HX4K-TQ144-IOB_105_SDO IO           
+U10-22 MCU_LQFP64-PA6 Passive      
+)
+(
+NetR5_1
+R5-1 Res1-1 Passive      
+U1-68 ICE40HX4K-TQ144-IOB_106_SDI IO           
+U10-23 MCU_LQFP64-PA7 Passive      
+)
+(
+NetR6_1
+R6-1 Res1-1 Passive      
+U1-70 ICE40HX4K-TQ144-IOB_107_SCK IO           
+U10-21 MCU_LQFP64-PA5 Passive      
+)
+(
+NetC28_1
+C28-1 Cap-1 Passive      
+P3-13 Header 14-13 Passive      
+U10-7 MCU_LQFP64-NRST Passive      
+)
+(
+NetP3_12
+P3-12 Header 14-12 Passive      
+R9-2 Res1-2 Passive      
+U10-60 MCU_LQFP64-BOOT0 Passive      
+)
+(
+NetP3_11
+P3-11 Header 14-11 Passive      
+U10-33 MCU_LQFP64-PB12/SD_VREF+ Passive      
+)
+(
+NetP3_10
+P3-10 Header 14-10 Passive      
+U10-34 MCU_LQFP64-PB13/PB14 Passive      
+)
+(
+NetP3_9
+P3-9 Header 14-9 Passive      
+U10-35 MCU_LQFP64-PB14/PB15 Passive      
+)
+(
+NetP3_8
+P3-8 Header 14-8 Passive      
+U10-36 MCU_LQFP64-PB15/PD8 Passive      
+)
+(
+NetP3_7
+P3-7 Header 14-7 Passive      
+U10-37 MCU_LQFP64-PC6 Passive      
+)
+(
+NetP3_6
+P3-6 Header 14-6 Passive      
+U10-38 MCU_LQFP64-PC7 Passive      
+)
+(
+NetP3_5
+P3-5 Header 14-5 Passive      
+U10-46 MCU_LQFP64-PA13 Passive      
+)
+(
+NetP3_4
+P3-4 Header 14-4 Passive      
+U10-49 MCU_LQFP64-PA14 Passive      
+)
+(
+NetP2_10
+P2-10 Header 11-10 Passive      
+U1-134 ICE40HX4K-TQ144-IOT_212 IO           
+)
+(
+NetP2_9
+P2-9 Header 11-9 Passive      
+U1-135 ICE40HX4K-TQ144-IOT_213 IO           
+)
+(
+NetP2_8
+P2-8 Header 11-8 Passive      
+U1-136 ICE40HX4K-TQ144-IOT_214 IO           
+)
+(
+NetP2_7
+P2-7 Header 11-7 Passive      
+U1-137 ICE40HX4K-TQ144-IOT_215 IO           
+)
+(
+NetP2_6
+P2-6 Header 11-6 Passive      
+U1-138 ICE40HX4K-TQ144-IOT_216 IO           
+)
+(
+NetP2_5
+P2-5 Header 11-5 Passive      
+U1-139 ICE40HX4K-TQ144-IOT_217 IO           
+)
+(
+NetP2_4
+P2-4 Header 11-4 Passive      
+U1-141 ICE40HX4K-TQ144-IOT_219 IO           
+)
+(
+NetP2_3
+P2-3 Header 11-3 Passive      
+U1-142 ICE40HX4K-TQ144-IOT_220 IO           
+)
+(
+NetP2_2
+P2-2 Header 11-2 Passive      
+U1-143 ICE40HX4K-TQ144-IOT_221 IO           
+)
+(
+NetP2_1
+P2-1 Header 11-1 Passive      
+U1-144 ICE40HX4K-TQ144-IOT_222 IO           
+)
+(
+NetP1_10
+P1-10 Header 10-10 Passive      
+U1-23 ICE40HX4K-TQ144-IOL_17A IO           
+)
+(
+NetP1_9
+P1-9 Header 10-9 Passive      
+U1-24 ICE40HX4K-TQ144-IOL_17B IO           
+)
+(
+NetP1_8
+P1-8 Header 10-8 Passive      
+U1-25 ICE40HX4K-TQ144-IOL_18A IO           
+)
+(
+NetP1_7
+P1-7 Header 10-7 Passive      
+U1-26 ICE40HX4K-TQ144-IOL_18B IO           
+)
+(
+NetP1_6
+P1-6 Header 10-6 Passive      
+U1-28 ICE40HX4K-TQ144-IOL_23A IO           
+)
+(
+NetP1_5
+P1-5 Header 10-5 Passive      
+U1-29 ICE40HX4K-TQ144-IOL_23B IO           
+)
+(
+NetP1_4
+P1-4 Header 10-4 Passive      
+U1-31 ICE40HX4K-TQ144-IOL_24A IO           
+)
+(
+NetP1_3
+P1-3 Header 10-3 Passive      
+U1-32 ICE40HX4K-TQ144-IOL_24B IO           
+)
+(
+NetP1_2
+P1-2 Header 10-2 Passive      
+U1-33 ICE40HX4K-TQ144-IOL_25A IO           
+)
+(
+NetP1_1
+P1-1 Header 10-1 Passive      
+U1-34 ICE40HX4K-TQ144-IOL_25B IO           
+)
+(
+NetCN1_1
+CN1-1 USB Micro B-VCC Power        
+D3-1 D Schottky-A Passive      
+)
+(
+NetU1_79
+U1-79 ICE40HX4K-TQ144-IOR_115 IO           
+U10-61 MCU_LQFP64-PB8 Passive      
+)
+(
+NetU1_78
+U1-78 ICE40HX4K-TQ144-IOR_114 IO           
+U10-59 MCU_LQFP64-PB7 Passive      
+)
+(
+NetU1_76
+U1-76 ICE40HX4K-TQ144-IOR_112 IO           
+U10-58 MCU_LQFP64-PB6 Passive      
+)
+(
+NetU1_75
+U1-75 ICE40HX4K-TQ144-IOR_111 IO           
+U10-57 MCU_LQFP64-PB5 Passive      
+)
+(
+NetU1_74
+U1-74 ICE40HX4K-TQ144-IOR_110 IO           
+U10-56 MCU_LQFP64-PB4 Passive      
+)
+(
+NetU1_73
+U1-73 ICE40HX4K-TQ144-IOR_109 IO           
+U10-55 MCU_LQFP64-PB3 Passive      
+)
+(
+NetR3_1
+R3-1 Res1-1 Passive      
+U1-66 ICE40HX4K-TQ144-CRESET_B Input        
+U10-15 MCU_LQFP64-PA1 Passive      
+)
+(
+NetR4_1
+R4-1 Res1-1 Passive      
+U1-65 ICE40HX4K-TQ144-CDONE IO           
+U10-14 MCU_LQFP64-PA0 Passive      
+)
+(
+NetU1_64
+U1-64 ICE40HX4K-TQ144-IOB_104_CBSEL1 IO           
+U10-17 MCU_LQFP64-PA3/SAR_VREF+ Passive      
+)
+(
+NetU1_63
+U1-63 ICE40HX4K-TQ144-IOB_103_CBSEL0 IO           
+U10-16 MCU_LQFP64-PA2 Passive      
+)
+(
+GND
+C1-2 Cap-2 Passive      
+C2-2 Cap-2 Passive      
+C3-2 Cap-2 Passive      
+C12-2 Cap-2 Passive      
+C13-2 Cap-2 Passive      
+C14-2 Cap-2 Passive      
+C15-2 Cap-2 Passive      
+C16-2 Cap-2 Passive      
+C21-1 Cap-1 Passive      
+C22-2 Cap-2 Passive      
+C23-1 Cap-1 Passive      
+C24-1 Cap-1 Passive      
+C25-2 Cap-2 Passive      
+C26-2 Cap-2 Passive      
+C27-2 Cap-2 Passive      
+C28-2 Cap-2 Passive      
+C29-2 Cap-2 Passive      
+C30-2 Cap-2 Passive      
+C31-2 Cap-2 Passive      
+C32-2 Cap-2 Passive      
+C33-2 Cap-2 Passive      
+C34-2 Cap-2 Passive      
+C35-2 Cap-2 Passive      
+C36-2 Cap-2 Passive      
+CN1-4 USB Micro B-ID Input        
+CN1-5 USB Micro B-GND Power        
+CN1-6 USB Micro B-SHELL Power        
+D2-2 LED2-K Passive      
+P2-11 Header 11-11 Passive      
+P3-14 Header 14-14 Passive      
+R9-1 Res1-1 Passive      
+U1-5 ICE40HX4K-TQ144-GND Power        
+U1-13 ICE40HX4K-TQ144-GND Power        
+U1-14 ICE40HX4K-TQ144-GND Power        
+U1-59 ICE40HX4K-TQ144-GND Power        
+U1-69 ICE40HX4K-TQ144-GND Power        
+U1-86 ICE40HX4K-TQ144-GND Power        
+U1-103 ICE40HX4K-TQ144-GND Power        
+U1-132 ICE40HX4K-TQ144-GND Power        
+U1-140 ICE40HX4K-TQ144-GND Power        
+U2-4 TLV7111233DSER-GND Power        
+U3-4 TPD4S012DRYR-GND Power        
+U10-12 MCU_LQFP64-VSSA Passive      
+U10-18 MCU_LQFP64-VSS/PF4/PA3 Passive      
+U10-31 MCU_LQFP64-VSS/VCAP1 Passive      
+U10-47 MCU_LQFP64-VSS/VCAP2/PF6 Passive      
+U10-63 MCU_LQFP64-VSS Passive      
+)
+(
+5V
+C22-1 Cap-1 Passive      
+C23-2 Cap-2 Passive      
+D3-2 D Schottky-K Passive      
+P3-3 Header 14-3 Passive      
+U2-1 TLV7111233DSER-EN1 Input        
+U2-2 TLV7111233DSER-IN Power        
+U2-3 TLV7111233DSER-EN2 Input        
+U3-6 TPD4S012DRYR-VBUS Passive      
+)
+(
+3V3
+C1-1 Cap-1 Passive      
+C2-1 Cap-1 Passive      
+C3-1 Cap-1 Passive      
+C4-1 Cap-1 Passive      
+C5-1 Cap-1 Passive      
+C6-1 Cap-1 Passive      
+C7-1 Cap-1 Passive      
+C8-1 Cap-1 Passive      
+C9-1 Cap-1 Passive      
+C10-1 Cap-1 Passive      
+C11-1 Cap-1 Passive      
+C24-2 Cap-2 Passive      
+C29-1 Cap-1 Passive      
+C30-1 Cap-1 Passive      
+C31-1 Cap-1 Passive      
+C32-1 Cap-1 Passive      
+C33-1 Cap-1 Passive      
+D1-1 D Schottky-A Passive      
+L1-1 Inductor-1 Passive      
+P3-2 Header 14-2 Passive      
+R3-2 Res1-2 Passive      
+R4-2 Res1-2 Passive      
+R5-2 Res1-2 Passive      
+R6-2 Res1-2 Passive      
+R7-2 Res1-2 Passive      
+R8-2 Res1-2 Passive      
+U1-6 ICE40HX4K-TQ144-VCCIO_3 Power        
+U1-30 ICE40HX4K-TQ144-VCCIO_3 Power        
+U1-46 ICE40HX4K-TQ144-VCCIO_2 Power        
+U1-57 ICE40HX4K-TQ144-VCCIO_2 Power        
+U1-72 ICE40HX4K-TQ144-VCC_SPI Power        
+U1-89 ICE40HX4K-TQ144-VCCIO_1 Power        
+U1-100 ICE40HX4K-TQ144-VCCIO_1 Power        
+U1-123 ICE40HX4K-TQ144-VCCIO_0 Power        
+U1-131 ICE40HX4K-TQ144-VCCIO_0 Power        
+U2-5 TLV7111233DSER-OUT2 Power        
+U10-1 MCU_LQFP64-VBAT/VLCD Passive      
+U10-19 MCU_LQFP64-VDD/PF5 Passive      
+U10-32 MCU_LQFP64-VDD Passive      
+U10-48 MCU_LQFP64-VDD/VUSB/VSA/PF7 Passive      
+U10-64 MCU_LQFP64-VDD Passive      
+)
+(
+1V2
+C12-1 Cap-1 Passive      
+C13-1 Cap-1 Passive      
+C14-1 Cap-1 Passive      
+C15-1 Cap-1 Passive      
+C16-1 Cap-1 Passive      
+C21-2 Cap-2 Passive      
+P3-1 Header 14-1 Passive      
+R1-1 Res1-1 Passive      
+R2-1 Res1-1 Passive      
+U1-27 ICE40HX4K-TQ144-VCC Power        
+U1-40 ICE40HX4K-TQ144-VCC Power        
+U1-92 ICE40HX4K-TQ144-VCC Power        
+U1-111 ICE40HX4K-TQ144-VCC Power        
+U2-6 TLV7111233DSER-OUT1 Power        
+)
+(
+NetR11_1
+R11-1 Res1-1 Passive      
+U10-45 MCU_LQFP64-PA12 Passive      
+)
+(
+NetR10_1
+R10-1 Res1-1 Passive      
+U10-44 MCU_LQFP64-PA11 Passive      
+)
+(
+NetC36_1
+C36-1 Cap-1 Passive      
+U10-3 MCU_LQFP64-PC14 - OSC32_IN Passive      
+Y2-2 XTAL-OSC2 Passive      
+)
+(
+NetC35_1
+C35-1 Cap-1 Passive      
+U10-4 MCU_LQFP64-PC15 - OSC32_OUT Passive      
+Y2-1 XTAL-OSC1 Passive      
+)
+(
+NetC34_1
+C34-1 Cap-1 Passive      
+U10-30 MCU_LQFP64-PB11/VCAP1 Passive      
+)
+(
+NetC27_1
+C27-1 Cap-1 Passive      
+U10-6 MCU_LQFP64-PF1/PD1/PH1 - OSC_OUT Passive      
+Y1-2 XTAL-OSC2 Passive      
+)
+(
+NetC26_1
+C26-1 Cap-1 Passive      
+U10-5 MCU_LQFP64-PF0/PD0/PH0 - OSC_IN Passive      
+Y1-1 XTAL-OSC1 Passive      
+)
+(
+A3V3
+C25-1 Cap-1 Passive      
+L1-2 Inductor-2 Passive      
+U10-13 MCU_LQFP64-VDDA/VREF+ Passive      
+)
+(
+NetD2_1
+D2-1 LED2-A Passive      
+R8-1 Res1-1 Passive      
+)
+(
+NetD1_2
+D1-2 D Schottky-K Passive      
+U1-108 ICE40HX4K-TQ144-VPP_2V5 Power        
+)
+(
+NetC19_2
+C19-2 Cap-2 Passive      
+C20-2 Cap-2 Passive      
+U1-127 ICE40HX4K-TQ144-GNDPLL1 Power        
+)
+(
+NetC19_1
+C19-1 Cap-1 Passive      
+C20-1 Cap-1 Passive      
+R2-2 Res1-2 Passive      
+U1-126 ICE40HX4K-TQ144-VCCPLL1 Power        
+)
+(
+NetC17_2
+C17-2 Cap-2 Passive      
+C18-2 Cap-2 Passive      
+U1-53 ICE40HX4K-TQ144-GNDPLL0 Power        
+)
+(
+NetC17_1
+C17-1 Cap-1 Passive      
+C18-1 Cap-1 Passive      
+R1-2 Res1-2 Passive      
+U1-54 ICE40HX4K-TQ144-VCCPLL0 Power        
+)
+(
+NetC4_2
+C4-2 Cap-2 Passive      
+C5-2 Cap-2 Passive      
+C6-2 Cap-2 Passive      
+C7-2 Cap-2 Passive      
+C8-2 Cap-2 Passive      
+C9-2 Cap-2 Passive      
+C10-2 Cap-2 Passive      
+C11-2 Cap-2 Passive      
+)

@@ -1,0 +1,10 @@
+Output: Protel2 Netlist
+Type  : Protel2Netlist
+From  : Project [Popsicle Stick V2.PrjPcb]
+   Generated File[Toplevel.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:37:01 PM On 6/26/2016
